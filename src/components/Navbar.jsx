@@ -91,7 +91,7 @@ const Navbar = () => {
             <img src={myProfilePic} alt="ProfilePic" className="rounded-full w-8 h-8" />
             <p>
               <span className='text-gray-400 text-14'>Hi, </span> {' '}
-              <span className='text-gray-400 font-bold ml-1 text-14'>Meraj</span>
+              <span className='text-gray-400 font-bold ml-1 text-14'>John</span>
             </p>
             <MdKeyboardArrowDown className='text-gray-400 text-14' />
           </div>

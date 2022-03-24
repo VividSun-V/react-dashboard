@@ -31,13 +31,13 @@ const UserProfile = () => {
         />
         <div>
           <p className="text-xl font-semibold dark:text-gray-200">
-            Meraj Mazidi
+            John Dae
           </p>
           <p className="text-sm text-gray-500 dark:text-gray-400">
             Administrator
           </p>
           <p className="text-sm text-gray-500 font-semibold dark:text-gray-400">
-            merajmazidiwork@gmail.com
+            admin@mail.com
           </p>
         </div>
       </div>

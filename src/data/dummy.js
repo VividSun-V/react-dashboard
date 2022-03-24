@@ -90,16 +90,7 @@ const gridEmployeeCountry = (props) => (
 export const EditorData = () => (
   <div>
     <h3>
-      <b>Heeeeey, My name is Meraj,</b><br /> I'm a 24 years old self-taught Fronted-developer who absolutely LOVES to code and design web sites and applications. <br />
-      I'm a JS guy, who happens to adore React! I just love exploring new things and learn new technologies in the process. To be short & honest, I'm a Tech guy! ;) who loves to work in teams and puts extra effort to get mentored by a seasoned, more expirenced developer <br />
-      <b>This is my Portfolio Page.</b> please check it out: <br />
-      <a href="https://meraj-main-portfolio.pages.dev/" target="_blank">https://meraj-main-portfolio.pages.dev/ </a> <br />
-      <b>This is my GitHub Page:</b> <br />
-      <a href="https://github.com/Meraj-Mazidi" target="_blank">https://github.com/Meraj-Mazidi</a> <br />
-      By the way, Feel free to contact me about a project or anything else, I'm available for you. <br />
-      <b>Here's my Email address:</b> <br />
-      <b>merajmazidiwork@gmail.com</b> <br /> <br />
-      EDIT ME! - 
+      EDIT ME! -
       This is just some text.
       Try React.
       React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
@@ -5987,28 +5978,28 @@ export const activityPosts = [
     topTitle: 'Daily Activities',
     coverImg: './product1.jpg',
     postTitle: 'Projects Routines',
-    postAuthor: 'Meraj Mazidi',
+    postAuthor: 'VividSun',
     postText: 'This will be the small description for the news you have shown here. There could be some great info.',
   },
   {
     topTitle: 'Weekly Activities',
     coverImg: './product2.jpg',
     postTitle: 'Team Meetings',
-    postAuthor: 'Meraj Mazidi',
+    postAuthor: 'VividSun',
     postText: 'This will be the small description for the news you have shown here. There could be some great info.',
   },
   {
     topTitle: 'Monthly Activities',
     coverImg: './product7.jpg',
     postTitle: 'Delivering the Project',
-    postAuthor: 'Meraj Mazidi',
+    postAuthor: 'VividSun',
     postText: 'This will be the small description for the news you have shown here. There could be some great info.',
   },
   {
     topTitle: 'Yearly Activities',
     coverImg: './product8.jpg',
     postTitle: 'Review of finished projects',
-    postAuthor: 'Meraj Mazidi',
+    postAuthor: 'VividSun',
     postText: 'This will be the small description for the news you have shown here. There could be some great info.',
   },
 

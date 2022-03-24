@@ -24,8 +24,8 @@ const Sidebar = () => {
       {activeMenu && (
         <>
           <div className="flex justify-between items-center">
-            <Link to="/" onClick={handleCloseSideBar} className="items-center gap-3 ml-3 mt-4 flex text-xl font-extrabold tracking-tight dark:text-white text-slate-900">
-              <SiShopware style={{ fill: currentColor }} /> <span className='genius'><span >G</span>enius.</span>
+            <Link to="/" onClick={handleCloseSideBar} className="items-center ml-3 mt-4 flex text-xl font-extrabold tracking-tight dark:text-white text-slate-900">
+              <SiShopware style={{ fill: currentColor }} /> <span className='genius' style={{ padding: "0 0 0 10px" }}><span >V</span>ivid</span><span className='genius'><span >S</span>un.</span>
             </Link>
             <TooltipComponent content="Menu" position="BottomCenter">
               <button
